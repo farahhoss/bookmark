@@ -1,4 +1,12 @@
-@media (min-width: 200px) and (max-width: 600px) {
+@media (min-width: 200px) and (max-width: 400px) {
+  #demo h2 {
+    font-size: 20px;
+  }
+  #demo .tabletext {
+    font-size: 13px;
+  }
+}
+@media (min-width: 400px) and (max-width: 600px) {
   #demo h2 {
     font-size: 20px;
   }
